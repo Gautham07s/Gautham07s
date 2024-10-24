@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Gautham07s
 - 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning C language
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me, U can write to me on @gauthamrs19@gmail.com
 
